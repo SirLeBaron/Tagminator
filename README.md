@@ -1,5 +1,5 @@
 # Tagminator
-The process goes as follows:[/n]
+The process goes as follows:
 
 Wait for nextTag signal to be HIGH
 After receiving the signal:
